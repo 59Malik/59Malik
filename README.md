@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from French</h3>
 
 - 🔭 I worked for [RZ PVP](https://www.youtube.com/watch?v=DKRVijR8KhQ&t=213s)
-- - 🔭 I worked for [Sneakylife](https://www.youtube.com/watch?v=DKRVijR8KhQ&t=213s)
+- 🔭 I worked for [Sneakylife](https://www.youtube.com/watch?v=DKRVijR8KhQ&t=213s)
 - 🤝 I’m worked for [Setlife](https://www.youtube.com/watch?v=UHPBsty5WnQ&t=210s)
 
 <h3 align="left">Connect with me:</h3>
