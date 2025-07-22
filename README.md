@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malik</h1>
+<h1 align="center">Hi 👋, I'm Shiro</h1>
 <h3 align="center">A passionate frontend developer from French</h3>
 
 - 🔭 I worked for [RZ PVP](https://www.youtube.com/watch?v=DKRVijR8KhQ&t=213s)
